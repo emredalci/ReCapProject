@@ -20,7 +20,7 @@ namespace ConsoleUI
                 Console.WriteLine(car.ModelYear);
             }
 
-            AddCarTest();
+            AddCarTest(); 
             UpdateCarTest();
             DeleteCarTest();
         }
